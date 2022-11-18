@@ -7,3 +7,7 @@
 <html> 
 </html>
 ```
+
+- [ ] Activar páginas de GitHub
+- [ ] Esquema de mi cartera
+- [ ] Presentarme al mundo
